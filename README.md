@@ -6,7 +6,7 @@ The **goal** of the game is to collect as many balls as possible. Once you have 
 
 ![Balls (1)](https://user-images.githubusercontent.com/108017307/211170057-4e5e1391-2a28-446e-9f28-ffcc8963382d.png)
 
-< href="https://avishaidotan.github.io/ball-board/"><a/>
+<a href="https://avishaidotan.github.io/ball-board/">Link<a/>
 
 ## Tech
 Javascript
